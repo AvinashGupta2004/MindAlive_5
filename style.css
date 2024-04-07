@@ -5,6 +5,9 @@
     font-family: "Roboto",sans-serif;
     font-size: 18px;
 }
+body{
+    overflow-x: hidden;
+}
 .top-intro-container{
     background-image: url("./images/image/banner_bg.png");
     background-size: contain;
